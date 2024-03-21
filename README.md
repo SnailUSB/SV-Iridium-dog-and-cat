@@ -1,4 +1,4 @@
-# Stardew Valley's iridium Dog and Cat
+# Stardew Valley's iridium / purple Dog and Cat
 A texture pack that changes a normal dog and cat into the unobtainable iridium/purple dog and cat that was added in the 1.6 stardew valley update 
 
 # How to install + How to get the pets
