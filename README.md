@@ -14,10 +14,9 @@ A texture pack that changes a normal dog and cat into the unobtainable iridium/p
 
 **-To uninstall this pack, Drop the content folder from the** *Remove iridium pets* **Folder into** *(x86)\Steam\steamapps\common\Stardew Valley*
 
-# Videos / Pictures of the texture pack
-- Twitter (Pictures) :
-- Twitter (Video) :
-- Youtube Video :
+# Video of the texture pack
+- Tiktok (Video) : https://www.tiktok.com/@snailusb/video/7348700199801343263
+- Youtube Video : https://www.youtube.com/watch?v=C7x1jSu4vic
 
 # Extra info
 - This pack replaces the sprites for **Dog2.XNB** + **Cat2.XNB**
