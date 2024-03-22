@@ -21,10 +21,3 @@
 - Tiktok (Video) : https://www.tiktok.com/@snailusb/video/7348700199801343263
 - Youtube Video : https://www.youtube.com/watch?v=C7x1jSu4vic
 
-# Extra info
-- This pack replaces the sprites for **Dog2.XNB** + **Cat2.XNB**
-- Both pets were added in the 1.6 update
-- Their file names are **Dog5.XNB** + **Cat5.XNB**
-- As of now, these two pets seem to be unobtainable
-
-
